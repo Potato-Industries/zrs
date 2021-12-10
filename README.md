@@ -1,6 +1,15 @@
 # zrs
 
-portable ziglang based reverse shell
+portable Ziglang based reverse shell
+
+https://ziglang.org/
+
+**Required package:**
+
+'network.zig'
+
+https://github.com/MasterQ32/zig-network
+
 
 ```
 root@84f9b9ce9b42:/var/tmp/zig-linux-aarch64-0.9.0-dev.1936+77836e08a# ls src/main.zig
